@@ -14,5 +14,8 @@ Message de confirmation
 - Organiser l’élection d’un(e) Président(e) ou une élection sans candidat
 - Organiser le partage d’une permanence sur un événement
 
+## Utiliser
+- http://framadate.org/
+
 ## Alternatives
 - Doodle (propriétaire)
