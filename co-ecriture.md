@@ -16,3 +16,4 @@
 - faire un compte rendu de réunion
 - copier le contenu co-créé dans un wiki pour archivage
 - tester avec répartition des rôles ou sans répartition des rôles, avec interaction orale ou juste le chat
+- rédiger une liste de bonnes pratiques
