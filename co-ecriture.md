@@ -23,4 +23,4 @@
 
 ### Cas d'un  groupe qui n'est pas à l'aise avec le numérique
 
-- Désigner un scribe, demander quelqu'un d'aller chercher de sliens de ressources pour compléter, un correcteur d'orthographe, faire tourner le rôle
+- Désigner un scribe, demander quelqu'un d'aller chercher des liens de ressources pour compléter, un correcteur d'orthographe, faire tourner le rôle
