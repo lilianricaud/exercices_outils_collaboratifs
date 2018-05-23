@@ -16,23 +16,26 @@ Il peut être personnalisé en fonction de vos besoins, et de vos projets.
 
 **Exercices**
 
-Exercice en mode Kanban: 
+Exercice en mode Kanban, seul ou en binôme.
+Un kanban peut servir à une équipe ou à une personne, pour mieux s'organise dans les tâches à faire.
 
 - créer un compte, individuellement
-- créer un tableau et une équipe. Les personnes de l'équipe pourront écrire et modifier les cartes du tableau.
+- créer un tableau et inviter les personnes concernées. Elles formeront l'équipe.
+Les personnes de l'équipe pourront écrire et modifier les cartes du tableau.
 - Par défaut, le tableau est vide. Créer en 3 colonnes 3 listes intitulées: A faire / En cours / Fait
-- ajouter des cartes  de tâches à faire 
+- ajouter des cartes  de tâches à faire, une tâche par carte.
 - Nous allons maintenant explorer les possibilités des cartes.
 Assigner la carte à 1 ou plusieurs personnes de l'équipe, préciser la description, les étapes d'avancement
 - déplacer les taches traitées dans la colonne en cours
 
 
-Exercice par projet
+Exercice par projet, en binôme.
 
 - créer un compte, individuellement
-- créer un tableau au nom du projet et inviter les personnes concernées. Elles formeront l'équipe.
+- 1 personne crée un tableau au nom du projet et invite les personnes concernées. Elles formeront l'équipe.
 
 A partir de maintenant chacun peut modifier/ajouter des cartes au tableau et gérer son organisation.
+Par défaut, le tableau est vide.
 - créer des colonnes par thème
 - ajouter des cartes dans chaque thème, une tâche par carte.
 
