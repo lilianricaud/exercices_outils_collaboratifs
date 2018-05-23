@@ -20,7 +20,7 @@ Exercice en mode Kanban, seul ou en binôme.
 Un kanban peut servir à une équipe ou à une personne, pour mieux s'organise dans les tâches à faire.
 
 - créer un compte, individuellement
-- créer un tableau et inviter les personnes concernées. Elles formeront l'équipe.
+- créer un tableau et, s'il y a lieu, inviter les personnes concernées. Elles formeront l'équipe.
 Les personnes de l'équipe pourront écrire et modifier les cartes du tableau.
 - Par défaut, le tableau est vide. Créer en 3 colonnes 3 listes intitulées: A faire / En cours / Fait
 - ajouter des cartes  de tâches à faire, une tâche par carte.
