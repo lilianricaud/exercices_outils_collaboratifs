@@ -1,6 +1,6 @@
 # Partager documents avec Google Drive
 
-google drive est une suite bureatique en ligne qu ipermet non seulement de partager des documents (textes, images, PDFs, ...) mais aussi pour certains de les éditer ollaborativement en direct et à plusieurs.
+google drive est une suite bureautique en ligne qui permet non seulement de partager des documents (textes, images, PDFs, ...) mais aussi pour certains de les éditer collaborativement en direct et à plusieurs.
 
 ## Exercice
 
