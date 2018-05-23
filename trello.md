@@ -30,6 +30,8 @@ Elles seront intitulées: A faire / En cours / Fait
 Nous allons maintenant explorer les possibilités des cartes.
 - assigner la carte à la.les personnes concernée.s : qui appeler ? qui informer ? qui s'en occupe ?
 - préciser la description, les étapes d'avancement
+- mettre un date limite pour le traitement des tâches (une par carte)
+- utiliser l'outil "étiquette" : pour cela il faut d'abord préparer les étiquettes c'est à dire assigner une couleur à un titre (ex : urgent, communication, etc.)
 - déplacer les taches traitées dans la colonne en cours
 
 
