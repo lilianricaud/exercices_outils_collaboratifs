@@ -27,13 +27,14 @@ Assigner la carte à 1 ou plusieurs personnes de l'équipe, préciser la descrip
 - déplacer les taches traitées dans la colonne en cours
 
 
-Exercice par groupes/thème de travail
+Exercice par projet
 
 - créer des colonnes par thème
 - ajouter des cartes dans chaque thème
 - assigner ces cartes à la.les personne.s concerné.e.s
 - gérer la visibilité du tableau
 
+Exemples hors milieu pro au besoin : l'organisation de vacances avec des amis, rassemblement familial pour l'anniversaire de mamie Jeanine...
 
 **Alternatives**
 Framaboard est son équivalent chez Framasoft, plus complet mais moins facile d'utilisation.
