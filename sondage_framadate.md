@@ -1,10 +1,12 @@
 # Framadate
 
-## Usage
-- Organiser des rencontres
+## Présentation
+Framadate est un outil développé par Framasoft. C'est un logiciel libre, gratuit et qui ne nécessite pas de créer de compte.
+framadate est utlisé pour :
+- Trouver une date/ un créneau commun entre plusieurs personnes
 - Faire un sondage
 
-## Fonctionnalités
+
 Liste de personnes à contacter
 Envoi d’un e-mail avec sondage
 Message de confirmation
