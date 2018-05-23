@@ -16,7 +16,7 @@ Stagiaire : 3 consignes individuelles
 Temps de cristallisation
 - questions/réponses, bonnes pratiques
 
-Faire une synthèse de l'outil et de ses avantages/incovénients sur le pad.
+Faire une synthèse de l'outil et de ses avantages/incovénients sur le pad du groupe de travail.
 
 ## Alternatives
 - dropbox
