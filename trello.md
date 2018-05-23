@@ -25,7 +25,8 @@ Les personnes de l'équipe pourront écrire et modifier les cartes du tableau.
 - Par défaut, le tableau est vide. Créer en 3 colonnes 3 listes intitulées: A faire / En cours / Fait
 - ajouter des cartes  de tâches à faire, une tâche par carte.
 - Nous allons maintenant explorer les possibilités des cartes.
-Assigner la carte à 1 ou plusieurs personnes de l'équipe, préciser la description, les étapes d'avancement
+Assigner la carte à la.les personnes concernée : qui appeler ? qui informer ? 
+- préciser la description, les étapes d'avancement
 - déplacer les taches traitées dans la colonne en cours
 
 
