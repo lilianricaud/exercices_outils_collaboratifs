@@ -15,6 +15,7 @@ Stagiaire : 3 consignes individuelles
 
 Temps de cristallisation
 - questions/réponses, bonnes pratiques
+Prise de note sur le pad.
 
 ## Alternatives
 - dropbox
