@@ -14,19 +14,26 @@ Cet outil nécessite de créer un compte personnel, il est gratuit mais ce n'est
 Avec une structure en 3 colonnes (A faire / En cours / Fait), il permet de suivre l'avancement des tâches (par type de tâches, par échéance, par personne-référente etc). Ce genre de tableau est appelé kanban.
 Il peut être personnalisé en ofnction de vos besoins, et de vos projets.
 
-
+**Exercices**
 
 Exercice en mode Kanban: 
-- créer un tableau et une équipe
-- creer 3 colonnes/listes : A faire / En cours / Fait
-- ajouter des cartes  de taches à faire 
-- assigner la carte à quelqu'un ou préciser description, étapes d'avancement
-- déplacer les taches traitées dans en cours
+
+- créer un compte, individuellement.
+- créer un tableau et une équipe. Les personnes de l'équipe pourront écrire et modifier les cartes du tableau.
+- Par défaut, le tableau est vide. Créer en 3 colonnes 3 listes intitulées: A faire / En cours / Fait
+- ajouter des cartes  de tâches à faire 
+- Nous allons maintenant explorer les possibilités des cartes.
+Assigner la carte à 1 ou plusieurs personnes de l'équipe, préciser la description, les étapes d'avancement
+- déplacer les taches traitées dans la colonne en cours
+
 
 Exercice par groupes/thème de travail
+
 - créer des colonnes par thème
 - ajouter des cartes dans chaque thème
-- assigner cartes à quelqu'un
+- assigner ces cartes à la.les personne.s concerné.e.s
 - gérer la visibilité du tableau
 
+
+**Alternatives**
 Framaboard est son équivalent chez Framasoft, plus complet mais moins facile d'utilisation.
