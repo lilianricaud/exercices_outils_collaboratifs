@@ -1,6 +1,6 @@
 # Trello
 
-**Présentation**
+## Présentation
 
 Trello est un tableau de bord ergonomique.
 Il s'agit de créer des cartes, comme on poserait des idées sur des post-it. Ces cartes sont ensuite modifiables et déplaçables dans le tableau. 
@@ -9,14 +9,14 @@ Nous verrons par la suite les possibilités de ces cartes et les options que l'o
 https://trello.com/
 Cet outil nécessite de créer un compte personnel, il est gratuit mais ce n'est pas un logiciel libre.
 
-**Usage**
+## Usage
 
 Avec une structure en 3 colonnes (A faire / En cours / Fait), il permet de suivre l'avancement des tâches (par type de tâches, par échéance, par personne-référente etc). Ce genre de tableau est appelé kanban.
 Il peut être personnalisé en fonction de vos besoins, et de vos projets.
 
-**Exercices**
+## Exercices
 
-Exercice en mode Kanban, seul ou en binôme.
+### Exercice en mode Kanban, seul ou en binôme.
 Un kanban peut servir à une équipe ou à une personne, pour mieux s'organiser dans les tâches à faire.
 
 - créer un compte, individuellement
@@ -36,7 +36,7 @@ Nous allons maintenant explorer les possibilités des cartes.
 
 
 
-Exercice par projet, en binôme.
+### Exercice par projet, en binôme.
 
 - créer un compte, individuellement
 - 1 personne crée un tableau au nom du projet et invite les personnes concernées. Elles formeront l'équipe.
@@ -55,7 +55,9 @@ Nous allons maintenant explorer les possibilités des cartes.
 - gérer la visibilité du tableau : déplacer les cartes, mettre des étiquettes.
 L'outil étiquette permet de préciser l'intitulé de la carte. Pour l'utiliser il faut préalablement préparer les étiquettes en assignant un titre à une couleur (ex : rouge = urgent, jaune = communication etc.)
 
-Exemples hors milieu pro au besoin : l'organisation de vacances avec des amis, rassemblement familial pour l'anniversaire de mamie Jeanine...
+### Exemples hors milieu pro au besoin : 
+
+l'organisation de vacances avec des amis, rassemblement familial pour l'anniversaire de mamie Jeanine...
 
 
 
